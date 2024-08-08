@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
 - 📫 How to reach me: mohammadmujahiddin01@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing chess and exploring new technologies.
+- ⚡ Fun fact: I love cooking and exploring new technologies.
 
 <!---
 mohammadmujahiddin/mohammadmujahiddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
